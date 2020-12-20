@@ -1,4 +1,4 @@
-## EUserv_extend
+# EUserv_extend
 使用Github Action自动续期EUserv免费IPv6 VPS脚本
 
 ## 说明
@@ -32,4 +32,4 @@ PASSWORD: 第一个账户密码 第二个账户密码
 
 ## 参考（及本文档）
 
-hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points  MIT License
+hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points  MIT License.
